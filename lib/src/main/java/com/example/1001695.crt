@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 92 (0x5c)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=SG, ST=Some-State, O=SUTD, OU=ISTD, CN=Liang Shuailong/emailAddress=liangshuailong@gmail.com
+        Validity
+            Not Before: Apr  7 04:35:45 2017 GMT
+            Not After : Apr  7 04:35:45 2018 GMT
+        Subject: C=SG, L=Singapore, O=SUTD, CN=Archit Date/emailAddress=atul_archit@mymail.sutd.edu.sg
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:d8:2d:6e:3c:7b:79:f4:fb:6a:5c:d1:0f:5e:fd:
+                    33:07:ee:0a:14:06:a8:99:c1:84:cb:9d:d5:b4:06:
+                    42:2c:4e:f5:80:f1:31:ff:e0:21:30:ea:fd:97:c5:
+                    5a:c1:43:31:8a:ad:7a:15:22:7a:43:a1:84:73:2b:
+                    23:0c:95:f2:3b:ff:dd:2f:45:7a:85:14:76:e6:e8:
+                    fa:dd:70:3f:bf:46:42:a2:21:b7:fc:c3:93:ae:30:
+                    67:aa:44:e6:f8:91:18:6c:2e:a0:43:97:5c:3f:7b:
+                    42:61:ca:15:bb:08:8a:ed:15:a7:c8:4b:58:88:0b:
+                    fc:6e:f4:f7:10:e8:44:8d:1d
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+        b5:5e:8c:b1:0f:34:d9:e9:a9:b8:82:4c:09:8a:47:b8:ce:38:
+        c7:0f:a8:27:3e:7e:90:23:26:03:44:f8:f9:e5:a4:39:3b:8e:
+        f5:76:9a:04:1c:f7:9b:76:54:26:53:c6:85:db:50:28:d7:cd:
+        37:40:41:03:42:cf:c2:b6:5d:4c:9e:8f:1c:3e:53:c4:9e:87:
+        b4:0f:91:ca:b8:bf:3a:f4:71:8a:97:a4:28:0c:32:5d:73:bd:
+        42:71:51:c7:62:b8:71:7c:33:59:2a:10:43:0f:9f:da:b7:e5:
+        f6:ac:23:2b:c9:c6:7e:c5:ec:33:8a:67:61:51:2b:ca:78:5b:
+        d8:3d
+-----BEGIN CERTIFICATE-----
+MIICaDCCAdECAVwwDQYJKoZIhvcNAQEEBQAwgYMxCzAJBgNVBAYTAlNHMRMwEQYD
+VQQIEwpTb21lLVN0YXRlMQ0wCwYDVQQKEwRTVVREMQ0wCwYDVQQLEwRJU1REMRgw
+FgYDVQQDEw9MaWFuZyBTaHVhaWxvbmcxJzAlBgkqhkiG9w0BCQEWGGxpYW5nc2h1
+YWlsb25nQGdtYWlsLmNvbTAeFw0xNzA0MDcwNDM1NDVaFw0xODA0MDcwNDM1NDVa
+MHUxCzAJBgNVBAYTAlNHMRIwEAYDVQQHDAlTaW5nYXBvcmUxDTALBgNVBAoMBFNV
+VEQxFDASBgNVBAMMC0FyY2hpdCBEYXRlMS0wKwYJKoZIhvcNAQkBFh5hdHVsX2Fy
+Y2hpdEBteW1haWwuc3V0ZC5lZHUuc2cwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJ
+AoGBANgtbjx7efT7alzRD179MwfuChQGqJnBhMud1bQGQixO9YDxMf/gITDq/ZfF
+WsFDMYqtehUiekOhhHMrIwyV8jv/3S9FeoUUdubo+t1wP79GQqIht/zDk64wZ6pE
+5viRGGwuoEOXXD97QmHKFbsIiu0Vp8hLWIgL/G709xDoRI0dAgMBAAEwDQYJKoZI
+hvcNAQEEBQADgYEAtV6MsQ802empuIJMCYpHuM44xw+oJz5+kCMmA0T4+eWkOTuO
+9XaaBBz3m3ZUJlPGhdtQKNfNN0BBA0LPwrZdTJ6PHD5TxJ6HtA+Ryri/OvRxipek
+KAwyXXO9QnFRx2K4cXwzWSoQQw+f2rfl9qwjK8nGfsXsM4pnYVErynhb2D0=
+-----END CERTIFICATE-----
